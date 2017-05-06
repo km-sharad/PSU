@@ -17,7 +17,7 @@ import org.apache.commons.math3.ml.clustering.evaluation.SumOfClusterVariances;
 
 public class KMeanBubbleChartDataCreator {
 	
-	int NO_OF_CLUSTERS = 8;
+	int NO_OF_CLUSTERS = 7;
 	int ITERATIONS = 100;
 	
 	List<Clusterable> points = new ArrayList<Clusterable>();
